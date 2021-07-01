@@ -2,7 +2,7 @@
 ## Objective
 This is a mini project where I want to see the progression I have made since I start running three years ago.
 ## Measures
-Since the datasets are fairly small, I simply analyze by excel, and prduce some basic graphs and pivot table.
+Since the datasets are fairly small, I simply analyze by **Microsoft Excel**, and prduce some basic graphs and pivot table.
 ## Data Source
 * First-handed data collected from my running session by Garmin Vivosport
 ## Analysis Highlight
